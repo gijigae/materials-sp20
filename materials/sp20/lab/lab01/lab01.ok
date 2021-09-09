@@ -1,6 +1,6 @@
 {
   "name": "Lab 1: Expressions",
-  "endpoint": "cal/data8/sp20/lab01",
+  "endpoint": "cs/ds100/fa21/lab01",
   "src": [
     "lab01.ipynb"
   ],
