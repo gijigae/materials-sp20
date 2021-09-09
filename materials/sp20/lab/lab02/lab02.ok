@@ -1,6 +1,6 @@
 {
   "name": "Lab 2: Tables",
-  "endpoint": "cal/data8/sp20/lab02",
+  "endpoint": "cs/ds100/fa21/lab02",
   "src": [
     "lab02.ipynb"
   ],
