@@ -1,6 +1,6 @@
 {
   "name": "Simulations",
-  "endpoint": "cal/data8/sp20/lab05",
+  "endpoint": "cs/ds4e/fa21/lab05",
   "src": [
     "lab05.ipynb"
   ],

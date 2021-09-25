@@ -1,6 +1,6 @@
 {
   "name": "Homework 12: Classification",
-  "endpoint": "cal/data8/sp20/hw12",
+  "endpoint": "cs/ds4e/fa21/hw12",
   "src": [
     "hw12.ipynb"
   ],

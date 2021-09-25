@@ -1,6 +1,6 @@
 {
   "name": "Homework 3: Table Manipulation and Visualization",
-  "endpoint": "cal/data8/sp20/hw03",
+  "endpoint": "cs/ds4e/fa21/hw03",
   "src": [
     "hw03.ipynb"
   ],

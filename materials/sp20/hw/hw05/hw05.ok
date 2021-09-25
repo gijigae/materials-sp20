@@ -1,6 +1,6 @@
 {
   "name": "Homework 5: Applying Functions and Iteration",
-  "endpoint": "cal/data8/sp20/hw05",
+  "endpoint": "cs/ds4e/fa21/hw05",
   "src": [
     "hw05.ipynb"
   ],

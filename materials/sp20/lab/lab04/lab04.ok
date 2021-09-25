@@ -1,6 +1,6 @@
 {
   "name": "Functions and Visualizations",
-  "endpoint": "cal/data8/sp20/lab04",
+  "endpoint": "cs/ds4e/fa21/lab04",
   "src": [
     "lab04.ipynb"
   ],

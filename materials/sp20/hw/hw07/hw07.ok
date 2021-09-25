@@ -1,6 +1,6 @@
 {
   "name": "Homework 7: Testing Hypotheses",
-  "endpoint": "cal/data8/sp20/hw07",
+  "endpoint": "cs/ds4e/fa21/hw07",
   "src": [
     "hw07.ipynb"
   ],

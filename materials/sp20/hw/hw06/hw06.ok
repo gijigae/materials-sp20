@@ -1,6 +1,6 @@
 {
   "name": "Homework 6: Probability, Simulation, Estimation, and Assessing Models",
-  "endpoint": "cal/data8/sp20/hw06",
+  "endpoint": "cs/ds4e/fa21/hw06",
   "src": [
     "hw06.ipynb"
   ],

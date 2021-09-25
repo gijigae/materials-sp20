@@ -1,6 +1,6 @@
 {
   "name": "Conditional Probability",
-  "endpoint": "cal/data8/sp20/lab10",
+  "endpoint": "cs/ds4e/fa21/lab10",
   "src": [
     "lab10.ipynb"
   ],

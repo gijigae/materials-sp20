@@ -1,6 +1,6 @@
 {
   "name": "Regression",
-  "endpoint": "cal/data8/sp20/lab09",
+  "endpoint": "cs/ds4e/fa21/lab09",
   "src": [
     "lab09.ipynb"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "Normal Distribution and Variance of Sample Means",
-  "endpoint": "cal/data8/sp20/lab08",
+  "endpoint": "cs/ds4e/fa21/lab08",
   "src": [
     "lab08.ipynb"
   ],

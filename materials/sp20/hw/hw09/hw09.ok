@@ -1,6 +1,6 @@
 {
   "name": "Resampling and the Bootstrap",
-  "endpoint": "cal/data8/sp20/hw09",
+  "endpoint": "cs/ds4e/fa21/hw09",
   "src": [
     "hw09.ipynb"
   ],

@@ -1,6 +1,6 @@
 {
   "name": "Project 3: Movie Classification",
-  "endpoint": "cal/data8/sp20/project3",
+  "endpoint": "cs/ds4e/fa21/project3",
   "src": [
     "project3.ipynb"
   ],

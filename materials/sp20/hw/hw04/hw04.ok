@@ -1,6 +1,6 @@
 {
   "name": "Homework 4: Functions, Histograms, and Groups",
-  "endpoint": "cal/data8/sp20/hw04",
+  "endpoint": "cs/ds4e/fa21/hw04",
   "src": [
     "hw04.ipynb"
   ],

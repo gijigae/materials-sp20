@@ -1,6 +1,6 @@
 {
   "name": "Homework 10: Linear Regression",
-  "endpoint": "cal/data8/sp20/hw10",
+  "endpoint": "cs/ds4e/fa21/hw10",
   "src": [
     "hw10.ipynb"
   ],

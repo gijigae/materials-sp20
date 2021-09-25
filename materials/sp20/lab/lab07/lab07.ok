@@ -1,6 +1,6 @@
 {
   "name": "Inference and the Death Penalty",
-  "endpoint": "cal/data8/sp20/lab07",
+  "endpoint": "cs/ds4e/fa21/lab07",
   "src": [
     "lab07.ipynb"
   ],
